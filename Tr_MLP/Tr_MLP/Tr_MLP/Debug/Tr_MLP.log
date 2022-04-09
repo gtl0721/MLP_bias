@@ -1,0 +1,8 @@
+﻿  Tr_MLP.cpp
+C:\Users\a8000\OneDrive\桌面\MLP_Program\MLP_bias_new\Tr_MLP\Tr_MLP\Tr_MLP\Tr_MLP.cpp(65,22): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\a8000\OneDrive\桌面\MLP_Program\MLP_bias_new\Tr_MLP\Tr_MLP\Tr_MLP\Tr_MLP.cpp(76,22): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\a8000\OneDrive\桌面\MLP_Program\MLP_bias_new\Tr_MLP\Tr_MLP\Tr_MLP\Tr_MLP.cpp(98,42): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\a8000\OneDrive\桌面\MLP_Program\MLP_bias_new\Tr_MLP\Tr_MLP\Tr_MLP\Tr_MLP.cpp(105,42): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\a8000\OneDrive\桌面\MLP_Program\MLP_bias_new\Tr_MLP\Tr_MLP\Tr_MLP\Tr_MLP.cpp(146,46): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\a8000\OneDrive\桌面\MLP_Program\MLP_bias_new\Tr_MLP\Tr_MLP\Tr_MLP\Tr_MLP.cpp(153,52): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Tr_MLP.vcxproj -> C:\Users\a8000\OneDrive\桌面\MLP_Program\MLP_bias_new\Tr_MLP\Tr_MLP\Debug\Tr_MLP.exe

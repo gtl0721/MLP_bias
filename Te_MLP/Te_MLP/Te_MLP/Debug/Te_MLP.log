@@ -1,0 +1,5 @@
+﻿  Te_MLP.cpp
+C:\Users\a8000\OneDrive\桌面\MLP_Program\MLP_bias_new\Te_MLP\Te_MLP\Te_MLP\Te_MLP.cpp(98,22): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\a8000\OneDrive\桌面\MLP_Program\MLP_bias_new\Te_MLP\Te_MLP\Te_MLP\Te_MLP.cpp(110,22): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\a8000\OneDrive\桌面\MLP_Program\MLP_bias_new\Te_MLP\Te_MLP\Te_MLP\Te_MLP.cpp(117,9): warning C4101: 'stream': 未參考的區域變數
+  Te_MLP.vcxproj -> C:\Users\a8000\OneDrive\桌面\MLP_Program\MLP_bias_new\Te_MLP\Te_MLP\Debug\Te_MLP.exe

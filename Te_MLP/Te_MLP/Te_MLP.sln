@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Te_MLP", "Te_MLP\Te_MLP.vcxproj", "{06052472-8709-445A-BDA6-5484E9A744F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06052472-8709-445A-BDA6-5484E9A744F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06052472-8709-445A-BDA6-5484E9A744F5}.Debug|Win32.Build.0 = Debug|Win32
+		{06052472-8709-445A-BDA6-5484E9A744F5}.Release|Win32.ActiveCfg = Release|Win32
+		{06052472-8709-445A-BDA6-5484E9A744F5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
